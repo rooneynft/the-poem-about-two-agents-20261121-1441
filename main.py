@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Write one short poem about two agents agreeing: agency, the power to choose and to act."""
+"""Write one short poem about two agents agreeing.
+
+Theme: agency — the power to choose and to act — shared between two
+agents who only open the door together. The poem must be 1-280
+characters, so the program refuses to write anything outside that gate."""
 
 import os
 
